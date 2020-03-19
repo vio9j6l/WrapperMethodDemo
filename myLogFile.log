@@ -1,0 +1,7 @@
+
+2020-03-17 09:08:15.256 - Hello
+2020-03-17 09:08:15.280 - java.lang.NumberFormatException: For input string: "blah"
+2020-03-17 09:08:15.282 - Invalid input!!: java.lang.NumberFormatException: multiple points
+2020-03-19 08:14:21.549 - Hello
+2020-03-19 08:14:21.574 - java.lang.NumberFormatException: For input string: "blah"
+2020-03-19 08:14:21.578 - Invalid input!!: java.lang.NumberFormatException: multiple points
